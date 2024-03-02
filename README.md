@@ -31,7 +31,7 @@ This Python script demonstrates the implementation of the Advanced Encryption St
    ```
 
 ## Usage
-1. Run the `aes_encryption.py` script.
+1. Run the `aes_enc.py` script.
 2. Follow the on-screen prompts:
    - Enter your message to be encrypted.
    - The script will display the encrypted message.
